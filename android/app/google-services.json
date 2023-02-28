@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521294919619",
+    "project_id": "chat-f7b1f",
+    "storage_bucket": "chat-f7b1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521294919619:android:1604bb6e745ffcb1c06f76",
+        "android_client_info": {
+          "package_name": "br.com.jazz.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521294919619-6ltlbsgo7kk9i331lk7k82mnpuvhen9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnkGkVwe2sHiewgg-Qccs1Fu6NgPPQM7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521294919619-6ltlbsgo7kk9i331lk7k82mnpuvhen9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
