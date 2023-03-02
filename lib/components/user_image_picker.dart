@@ -51,7 +51,7 @@ class _UserImagePickerState extends State<UserImagePicker> {
                 color: Theme.of(context).primaryColor,
               ),
               SizedBox(width: 10),
-              Text('Adicionar Imagem')
+              Text('Adicione seu rostinho bonito')
             ],
           ),
         )

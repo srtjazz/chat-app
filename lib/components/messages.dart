@@ -17,7 +17,7 @@ class Messages extends StatelessWidget {
           );
         } else if (!snapshot.hasData || snapshot.data!.isEmpty) {
           return Center(
-            child: Text('Sem dados. Vamo bater um papo?'),
+            child: Text('Sem dados. Vamos bater um papo?'),
           );
         } else {
           final messages = snapshot.data!;
